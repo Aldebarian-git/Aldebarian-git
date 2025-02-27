@@ -9,7 +9,8 @@
 ## 💻 **À propos de moi**  
 
 🔹 Développeur full-stack passionné par le back-end et l'architecture logicielle  
-🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée, et un sens du travail en équipe très develloppé  
+🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée
+🔹 Je possède un sens aigu du travail en équipe
 🔹 J'adore apprendre, expérimenter et relever des défis techniques  
 
 📍 **Stack préférée** :  
