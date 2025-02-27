@@ -29,8 +29,11 @@
 
 ## 📌 **Projets phares**  
 
-🔹 **☕ O'Coffee** : Un site vitrine de détaillant de café avec un back-office entièrement fonctionnel : [Projet O'Coffee](https://ocoffee-production-4b58.up.railway.app) :
-🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli : [Projet Ghibli O'Tèque]([https://ocoffee-production-4b58.up.railway.app](https://github.com/Aldebarian-git/GhibliO-Theque)) :
+🔹 **☕ O'Coffee** : Un site vitrine de détaillant de café avec un back-office entièrement fonctionnel :  
+[Projet O'Coffee](https://ocoffee-production-4b58.up.railway.app)  
+
+🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli :  
+[Projet Ghibli O'Tèque](https://github.com/Aldebarian-git/GhibliO-Theque)
 
 
 ---
