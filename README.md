@@ -33,10 +33,29 @@
 🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli  
 🔹 **🔎 Search App** : Une application de recherche avancée avec PostgreSQL  
 
-📬 Me contacter
-📧 Email : flavien.guillonfr@gmail.com
-💼 LinkedIn : linkedin.com/in/flavien-guillon-2a031934b
-💻 Portfolio : aldebarian-git.github.io/Portefolio
+---
 
-🎯 Statistiques GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aldebarian-git&show_icons=true&theme=radical" alt="Stats GitHub"> </p>
+## 📬 **Me contacter**  
+
+📧 **Email** :  
+[flavien.guillonfr@gmail.com](mailto:flavien.guillonfr@gmail.com)  
+
+💼 **LinkedIn** :  
+[linkedin.com/in/flavien-guillon-2a031934b](https://www.linkedin.com/in/flavien-guillon-2a031934b/)  
+
+💻 **Portfolio** :  
+[aldebarian-git.github.io/Portefolio](https://aldebarian-git.github.io/Portefolio/)  
+
+---
+
+## 🎯 **Statistiques GitHub**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldebarian-git&show_icons=true&theme=radical" alt="Stats GitHub">
+</p>
+
+---
+
+🚀 *Toujours prêt pour de nouvelles aventures tech !*  
+💡 *Open-source lover & Lifelong learner*  
+
