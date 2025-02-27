@@ -1,17 +1,18 @@
-<h1 align="center">👋 Hello, I'm Flavien!</h1>
-
-<p align="center">
-  🚀 Passionné par les nouvelles technologies | 💡 Créatif & Problème solver | 🎯 Objectif : Innover et optimiser
-</p>
-
----
-
 ## 💻 **À propos de moi**  
 
 🔹 Développeur full-stack passionné par le back-end et l'architecture logicielle  
-🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée
-🔹 Je possède un sens aigu du travail en équipe
-🔹 J'adore apprendre, expérimenter et relever des défis techniques  
+
+🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée  
+
+🔹 Je possède un sens aigu du travail en équipe et de l'entraide, car je crois que les meilleurs projets naissent de la collaboration  
+
+🔹 J'adore apprendre, expérimenter et relever des défis techniques, en particulier lorsqu'il s'agit d'optimisation et de performance  
+
+🔹 Curieux de nature, je m'intéresse aussi à l'UI/UX design pour proposer des interfaces intuitives et agréables  
+
+🔹 Toujours en quête de progression, je suis à l'affût des nouvelles technologies et des meilleures pratiques en développement  
+
+🔹 J'ai un attrait particulier pour le monde du jeu vidéo et l'univers geek, qui m'inspirent dans mes projets et ma façon d'aborder la programmation  
 
 📍 **Stack préférée** :  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -34,8 +35,7 @@
 [Projet O'Coffee](https://ocoffee-production-4b58.up.railway.app)  
 
 🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli :  
-[Projet Ghibli O'Tèque](https://github.com/Aldebarian-git/GhibliO-Theque)
-
+[Projet Ghibli O'Tèque](https://github.com/Aldebarian-git/GhibliO-Theque)  
 
 ---
 
@@ -61,5 +61,7 @@
 ---
 
 🚀 *Toujours prêt pour de nouvelles aventures tech !*  
+
 💡 *Open-source lover & Lifelong learner*  
+
 
