@@ -74,7 +74,7 @@
 
 🚀 *Toujours prêt pour de nouvelles aventures tech !*  
 
-💡 *Open-source lover & Lifelong learner*  
+
 
 
 
