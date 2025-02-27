@@ -29,9 +29,9 @@
 
 ## 📌 **Projets phares**  
 
-🔹 **🎮 O'Quiz** : Une plateforme de quiz interactive avec Express et Sequelize  
-🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli  
-🔹 **🔎 Search App** : Une application de recherche avancée avec PostgreSQL  
+🔹 **☕ O'Coffee** : Un site vitrine de détaillant de café avec un back-office entièrement fonctionnel : [Projet O'Coffee](https://ocoffee-production-4b58.up.railway.app)
+🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli : [Projet Ghibli O'Tèque]([https://ocoffee-production-4b58.up.railway.app](https://github.com/Aldebarian-git/GhibliO-Theque))  
+
 
 ---
 
