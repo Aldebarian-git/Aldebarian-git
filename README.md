@@ -43,16 +43,17 @@
 
 ## 📌 **Projets phares**  
 
-🔹 **🎮 Pokédex : Une application develloppé seul au cours d'un challenge de 5 jours :
-[Projet Pokedex](https://pokedex-spa-mu.vercel.app) 
+🔹 🎮 **Pokédex** : Une application développée seul lors d'un challenge de 5 jours :  
+[Projet Pokédex](https://pokedex-spa-mu.vercel.app)  
 
-🔹 **☕ O'Coffee** : Un site vitrine de détaillant de café avec un back-office entièrement fonctionnel :  
+🔹 ☕ **O'Coffee** : Un site vitrine de détaillant de café avec un back-office entièrement fonctionnel :  
 [Projet O'Coffee](https://ocoffee-production-4b58.up.railway.app)  
 
-🔹 **📖 La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli :  
+🔹 📖 **La Ghibli O’Tèque** : Une bibliothèque dédiée aux films Ghibli :  
 [Projet Ghibli O'Tèque](https://github.com/Aldebarian-git/GhibliO-Theque)  
 
 ---
+
 
 ## 📬 **Me contacter**  
 
