@@ -43,8 +43,8 @@
 
 ## 📌 **Projets phares**  
 
-🔹 **🎮 Pokédex : Une application develloppé seul au cours d'un challenge de 5 jours. 
-[Projet pokedex](https://pokedex-spa-mu.vercel.app)  
+🔹 **🎮 Pokédex : Une application develloppé seul au cours d'un challenge de 5 jours :
+[Projet Pokedex](https://pokedex-spa-mu.vercel.app) 
 
 🔹 **☕ O'Coffee** : Un site vitrine de détaillant de café avec un back-office entièrement fonctionnel :  
 [Projet O'Coffee](https://ocoffee-production-4b58.up.railway.app)  
