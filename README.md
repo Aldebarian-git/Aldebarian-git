@@ -1,4 +1,4 @@
-## 💻 **À propos de moi**
+n## 💻 **À propos de moi**
 
 🔹 Développeur full-stack passionné par le back-end et l'architecture logicielle  
 🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée  
@@ -20,7 +20,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🔹 Front-end
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -56,8 +55,9 @@ Bibliothèque dédiée aux films Ghibli (back + front) :
 Projet de fin de formation : Site d’un parc à thème zombie avec :
 - **Front** : React 19  
 - **Back** : Node.js + PostgreSQL + Sequelize  
-- **Auth** : JWT  
-👉 [https://github.com/Aldebarian-git/zombieland-parc](https://github.com/Aldebarian-git/zombieland-parc)
+- **Auth** : JWT
+- **Back-Office** : Entièrement fonctionnel, permettant à l'administrateur de CRUD les activités, les activités, les utilisateurs  
+👉 [Le site Zombieland](https://zombieland-parc.fr)
 
 ---
 
