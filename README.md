@@ -1,4 +1,4 @@
-n## 💻 **À propos de moi**
+## 💻 **À propos de moi**
 
 🔹 Développeur full-stack passionné par le back-end et l'architecture logicielle  
 🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée  
