@@ -1,6 +1,6 @@
 ## 💻 **À propos de moi**
 
-🔹 Développeur full-stack passionné par le Front-End
+🔹 Développeur full-stack passionné par le Front-End   
 🔹 Ancien responsable logistique en milieu hospitalier, j'ai une approche analytique et structurée  
 🔹 Je possède un sens aigu du travail en équipe et de l'entraide, car je crois que les meilleurs projets naissent de la collaboration  
 🔹 J'adore apprendre, expérimenter et relever des défis techniques, en particulier lorsqu'il s'agit d'optimisation et de performance  
