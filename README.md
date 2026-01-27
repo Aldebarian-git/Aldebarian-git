@@ -65,7 +65,7 @@ Projet de fin de formation : Site d’un parc à thème zombie avec :
 
 📧 **Email** : [flavien.guillonfr@gmail.com](mailto:flavien.guillonfr@gmail.com)  
 💼 **LinkedIn** : [linkedin.com/in/flavien-guillon-2a031934b](https://www.linkedin.com/in/flavien-guillon-2a031934b/)  
-💻 **Portfolio** : [aldebarian-git.github.io/Portefolio]([https://aldebarian-git.github.io/Portefolio](https://novadev.pro)/)
+💻 **Portfolio** : [aldebarian-git.github.io/Portefolio](https://novadev.pro]([https://aldebarian-git.github.io/Portefolio](https://novadev.pro/)
 
 ---
 
